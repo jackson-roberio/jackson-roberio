@@ -1,5 +1,10 @@
-## :small_orange_diamond: Perfil do Github de Jackson Roberio 👋
 
+ <a href="https://jacksonroberio.com.br" target="_blank" >
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jackson-roberio.jackson-roberio" />
+</a>
+
+## :small_orange_diamond: Perfil do Github de Jackson Roberio 👋
+ 
 <div>
   <a href="https://jacksonroberio.com.br" target="_blank" >
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /> 
