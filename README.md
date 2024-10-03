@@ -56,6 +56,10 @@
     </a>
 </div>          
 
+### :small_orange_diamond: Badges Holopin :paperclip:
+
+[![@jacksonroberio Holopin board](https://holopin.io/api/user/board?user=jacksonroberio1)](https://holopin.io/@jacksonroberio1)
+
 
 ### :small_orange_diamond: Neste Git :octocat:
 <a href="https://github.com/jackson-roberio">
